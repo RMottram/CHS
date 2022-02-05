@@ -1,2 +1,2 @@
-# Potters-CHS
+# CHS
  
